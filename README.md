@@ -1,3 +1,4 @@
+[![Build Status](http://54.206.39.76/:8080/buildStatus/icon?job=buildstatus)](http://54.206.39.76:8080/job/buildstatus/)
 # Sample Maven Application: maven-employee-web-application
 maven-employee-web-application.
 ok
